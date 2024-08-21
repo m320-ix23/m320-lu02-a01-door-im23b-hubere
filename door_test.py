@@ -24,7 +24,7 @@ def test_door_close(a_door):
 def test_door_locking(a_door):
     a_door.lock_the_door()
     assert a_door._door_is_locked
-
+#hi
 def test_door_unlock(a_door):
     a_door.unlock_the_door()
     assert a_door._door_is_locked == False
