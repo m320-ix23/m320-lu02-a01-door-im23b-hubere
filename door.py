@@ -26,7 +26,7 @@ class Door:
         self._door_is_locked = False
 
     # Nach den Konstruktoren folgen Methoden, die eine Verarbeitung auslösen.
-    # Danach folgen Methoden, die auf ein Ereignis reagieren
+    # Danach folgen Methoden, die auf ein Ereignis reagieren jaq
     def open_the_door(self):
         """
         Methode für das öffnen der Türe.
